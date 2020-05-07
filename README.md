@@ -4,7 +4,7 @@ MD5 Hash Cracker Tool by HackersBrain
 **Hash Cracker V1.0**
 
 ## Requirements
-***Python3**
+** * Python3 **
 
 ## Installation
 Clone or Download this Repository
