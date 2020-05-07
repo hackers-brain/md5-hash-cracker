@@ -18,4 +18,4 @@ Run the .py file
 python3 md5_hash_cracker.py
 ```
 ## Credits
-**Author : [HackerBrain](https://github.com/hackers-brain/)
+**Author : [HackerBrain](https://github.com/hackers-brain/)**
