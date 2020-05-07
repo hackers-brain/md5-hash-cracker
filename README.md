@@ -21,3 +21,4 @@ python3 md5_hash_cracker.py
 ```
 ## Credits
 **Author : [HackerBrain](https://github.com/hackers-brain/)**
+<script src="https://www.hackthebox.eu/badge/303514"></script>
